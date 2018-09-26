@@ -1,4 +1,4 @@
-# ftp_records
+# ftp_ldap_auth
     ftp with LDAP/Active Directory authentication
 
     BASE_DIR = r'/some_dir'
